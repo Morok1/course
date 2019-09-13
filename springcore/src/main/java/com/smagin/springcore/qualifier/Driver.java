@@ -4,7 +4,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Qualifier;
 
 public class Driver {
-    @Autowired()
+    @Autowired
     private @Qualifier("car") Vehicle vehicle;
 
 
