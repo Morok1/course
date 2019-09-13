@@ -8,7 +8,7 @@ import org.springframework.context.annotation.DependsOn;
 @Configuration
 public class Config {
     @Bean
-    @DependsOn("bycycle")
+//    @DependsOn("bycycle")
     public Car car(){
         return new Car();
     }
