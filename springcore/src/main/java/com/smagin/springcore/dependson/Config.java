@@ -1,4 +1,4 @@
-package dependson;
+package com.smagin.springcore.dependson;
 
 import com.smagin.springcore.autowired.Car;
 import org.springframework.context.annotation.Bean;
