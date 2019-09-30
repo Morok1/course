@@ -1,4 +1,4 @@
-package com.smagin.test.test.account;
+package com.smagin.test.test;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
